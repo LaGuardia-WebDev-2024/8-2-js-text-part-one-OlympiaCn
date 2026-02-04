@@ -16,6 +16,13 @@ draw = function(){
 
   //🎯New Text Code Should Go Here 🡻
 
+background(30, 30, 30);
+textSize(200);
+fill(255, 264, 204);
+text("hello", 100, 210);
+textSize(100);
+fill(255, 204, 229)
+text("I'm Pia", 150, 310);
 };
 
 //🟡Mouse Pressed Procedue - Runs When Mouse is Pressed on Canvas
